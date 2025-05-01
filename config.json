@@ -1,7 +1,7 @@
 {
-  "token": "YOUR_DISCORD_BOT_TOKEN",
-  "solanaRpcUrl": "YOUR_SOLANA_RPC_URL",
+  "token": "1367297837196640257",
+  "solanaRpcUrl": "https://mainnet.helius-rpc.com/?api-key=7b05747c-b100-4159-ba5f-c85e8c8d3997",
   "color": "#FF0000",
-  "footerText": "Developed By: Bankkroll",
-  "footerIcon": "https://pbs.twimg.com/profile_images/1680720685239287808/dVQorGnG_400x400.jpg"
+  "footerText": "Banabets.com",
+  "footerIcon": "https://iili.io/3XbbUwF.png"
 }
